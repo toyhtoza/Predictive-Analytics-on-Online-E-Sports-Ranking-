@@ -1,4 +1,6 @@
 # Predictive-Analytics-on-Online-E-Sports-Ranking-
+Feb. 2020–May 2020
+
 In recent years, the Chinese society has been in a stage of rapid development.
 People’s interest in online gaming has gradually intensified with the progress
 and development of the society. In this context, the new industry of eSports
